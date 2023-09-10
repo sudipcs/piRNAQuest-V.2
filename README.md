@@ -4,4 +4,4 @@ A definitive objective of piRNAQuest V.2 is to provide data on fundamental piRNA
 
 I have developed piRNAQuest V.2 which serves as a valuable resource for the scientific community. The database was developed using PHP, JavaScript, and MySQL, and it has demonstrated its utility in advancing research in non-coding RNA biology.
 
-The link: http://dibresources.jcbose.ac.in/zhumur/pirnaquest2/start.php
+The database link: http://dibresources.jcbose.ac.in/zhumur/pirnaquest2/start.php
